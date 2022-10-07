@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SendMessage</string>
+    <string name="etMessageHint">Escribe un mensaje</string>
+    <string name="etMessageText" translatable="false"></string>
+    <string name="btSendMesag">Enviar</string>
+    <string name="etUserHint">Inserta tu nombre</string>
+    <string name="tvUsuarioText">El usuario</string>
+    <string name="tvEmisorText" translatable="false" />
+    <string name="tvInfoText">ha escrito el mensaje</string>
+    <string name="tvMessageText" translatable="false" />
+    <string name="imgMessage">Icono de un mensaje </string>
+    <string name="aboutus"> Sobre nosotros </string>
+    <string name="username" translatable="false"> Daniel Camacho Montes </string>
+    <string name="subtitle"> Desarrollador Movil </string>
+    <string name="linkgithub" translatable="false">Danicmlb</string>
+</resources>

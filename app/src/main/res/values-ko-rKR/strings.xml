@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">메시지 보내기</string>
+    <string name="etMessageHint">메시지 입력</string>
+    <string name="btSendMesag">보내기</string>
+    <string name="etUserHint">이름 삽입</string>
+    <string name="tvUsuarioText">사용자</string>
+    <string name="tvInfoText">메시지를 작성했습니다</string>
+    <string name="imgMessage">메시지 아이콘</string>
+    <string name="aboutus"> 우리에 관해서 </string>
+    <string name="subtitle"> 모바일 개발자 </string>
+</resources>
